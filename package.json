@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-collect-i18n",
+  "version": "1.0.0",
+  "description": "i18n CallExpression collect plugin of babel.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L-excellence/babel-plugin-collect-i18n"
+  },
+  "files": [
+    "src",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "babel-plugin",
+    "i18n",
+    "collect",
+    "cegz"
+  ],
+  "author": "chenyl",
+  "license": "MIT"
+}
